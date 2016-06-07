@@ -2,8 +2,9 @@ body {
 	margin: 0 auto;
 	max-width: 40em;
 	padding: 2em;
-    line-height: 1.5;
-    color: #314249;
+  line-height: 1.5;
+  color: #314249;
+	font-family: 'Source Sans Pro', sans-serif;
 }
 
 a {
