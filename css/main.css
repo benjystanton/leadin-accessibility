@@ -21,6 +21,16 @@ a {
 	color: #3870AD;
 }
 
+a:hover {
+	color: #6098D4;
+}
+
+a:focus {
+	color: #314249;
+	background-color: #EACD86;
+	outline: 3px solid #EACD86;
+}
+
 img {
     height: auto;
     max-width: 100%;
