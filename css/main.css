@@ -7,6 +7,15 @@ body {
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
+h1 {
+	font-size: 3em;
+	line-height: 1.2;
+}
+
+h2 {
+	font-size: 2em;
+}
+
 a {
 	color: #3870AD;
 }
