@@ -1,2 +1,2 @@
-# leadin-accessibility
+# Leadin accessibility
 An introduction to accessibility
