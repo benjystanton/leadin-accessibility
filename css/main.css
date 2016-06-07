@@ -9,3 +9,10 @@ body {
 a {
 	color: #4078c0;
 }
+
+img {
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+    padding: 1em 0;
+}
